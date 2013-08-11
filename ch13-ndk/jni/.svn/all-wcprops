@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/26/trunk/ch13-ndk/jni
+END
+jniutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/26/trunk/ch13-ndk/jni/jniutils.cpp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/26/trunk/ch13-ndk/jni/Android.mk
+END
+jniutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/26/trunk/ch13-ndk/jni/jniutils.h
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26/trunk/ch13-ndk/jni/Application.mk
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/math
+END
+OverlapTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/math/OverlapTester.java
+END
+Circle.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/math/Circle.java
+END
+Vector2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/math/Vector2.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/math/Rectangle.java
+END
+Vector3.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/math/Vector3.java
+END
+Sphere.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/math/Sphere.java
+END

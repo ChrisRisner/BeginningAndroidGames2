@@ -1,0 +1,61 @@
+10
+
+dir
+30
+http://beginnginandroidgames2.googlecode.com/svn/trunk
+http://beginnginandroidgames2.googlecode.com/svn
+
+
+
+2012-11-01T11:34:57.874581Z
+30
+badlogicgames
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+7f42b87f-b82e-30c3-44e1-3928c4957102
+
+ch03-game-framework
+dir
+
+ch11-gl-advanced
+dir
+
+ch10-gl-3d
+dir
+
+ch06-mr-nom
+dir
+
+ch07-gl-basics
+dir
+
+ch09-jumper
+dir
+
+ch02-helloworld
+dir
+
+ch13-ndk
+dir
+
+ch12-droidinvaders
+dir
+
+ch08-2d-gamedev
+dir
+
+ch04-android-basics
+dir
+

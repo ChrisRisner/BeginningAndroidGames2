@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/trunk/ch07-gl-basics/src/com/badlogic/androidgames/framework/gl
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10/trunk/ch07-gl-basics/src/com/badlogic/androidgames/framework/gl/Texture.java
+END
+Vertices.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8/trunk/ch07-gl-basics/src/com/badlogic/androidgames/framework/gl/Vertices.java
+END
+BindableVertices.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8/trunk/ch07-gl-basics/src/com/badlogic/androidgames/framework/gl/BindableVertices.java
+END
+FPSCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8/trunk/ch07-gl-basics/src/com/badlogic/androidgames/framework/gl/FPSCounter.java
+END

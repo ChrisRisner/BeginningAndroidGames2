@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/ch10-gl-3d/src/com/badlogic/androidgames/gl3d
+END
+GL3DBasicsStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15/trunk/ch10-gl-3d/src/com/badlogic/androidgames/gl3d/GL3DBasicsStarter.java
+END
+ZBufferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15/trunk/ch10-gl-3d/src/com/badlogic/androidgames/gl3d/ZBufferTest.java
+END
+HierarchicalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15/trunk/ch10-gl-3d/src/com/badlogic/androidgames/gl3d/HierarchicalObject.java
+END
+Vertices3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15/trunk/ch10-gl-3d/src/com/badlogic/androidgames/gl3d/Vertices3Test.java
+END
+PerspectiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15/trunk/ch10-gl-3d/src/com/badlogic/androidgames/gl3d/PerspectiveTest.java
+END
+ZBlendingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15/trunk/ch10-gl-3d/src/com/badlogic/androidgames/gl3d/ZBlendingTest.java
+END
+CubeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/ch10-gl-3d/src/com/badlogic/androidgames/gl3d/CubeTest.java
+END
+HierarchyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15/trunk/ch10-gl-3d/src/com/badlogic/androidgames/gl3d/HierarchyTest.java
+END

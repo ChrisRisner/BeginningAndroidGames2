@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl
+END
+SpriteBatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/SpriteBatcher.java
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/Texture.java
+END
+ObjLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/ObjLoader.java
+END
+LookAtCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/LookAtCamera.java
+END
+TextureRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/TextureRegion.java
+END
+Font.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/Font.java
+END
+Vertices3.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/Vertices3.java
+END
+AmbientLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/AmbientLight.java
+END
+Camera2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/Camera2D.java
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/Animation.java
+END
+PointLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/PointLight.java
+END
+Vertices.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/Vertices.java
+END
+EulerCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/EulerCamera.java
+END
+DirectionalLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/DirectionalLight.java
+END
+FPSCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/FPSCounter.java
+END
+Material.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/17/trunk/ch11-gl-advanced/src/com/badlogic/androidgames/framework/gl/Material.java
+END

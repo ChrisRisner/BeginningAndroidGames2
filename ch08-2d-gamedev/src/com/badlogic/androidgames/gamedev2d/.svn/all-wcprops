@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/trunk/ch08-2d-gamedev/src/com/badlogic/androidgames/gamedev2d
+END
+SpriteBatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/13/trunk/ch08-2d-gamedev/src/com/badlogic/androidgames/gamedev2d/SpriteBatcherTest.java
+END
+AnimationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/13/trunk/ch08-2d-gamedev/src/com/badlogic/androidgames/gamedev2d/AnimationTest.java
+END
+CannonGravityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10/trunk/ch08-2d-gamedev/src/com/badlogic/androidgames/gamedev2d/CannonGravityTest.java
+END
+GameDev2DStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10/trunk/ch08-2d-gamedev/src/com/badlogic/androidgames/gamedev2d/GameDev2DStarter.java
+END
+TextureAtlasTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/13/trunk/ch08-2d-gamedev/src/com/badlogic/androidgames/gamedev2d/TextureAtlasTest.java
+END
+CollisionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/13/trunk/ch08-2d-gamedev/src/com/badlogic/androidgames/gamedev2d/CollisionTest.java
+END
+CannonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10/trunk/ch08-2d-gamedev/src/com/badlogic/androidgames/gamedev2d/CannonTest.java
+END
+Cannon.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13/trunk/ch08-2d-gamedev/src/com/badlogic/androidgames/gamedev2d/Cannon.java
+END
+Camera2DTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15/trunk/ch08-2d-gamedev/src/com/badlogic/androidgames/gamedev2d/Camera2DTest.java
+END

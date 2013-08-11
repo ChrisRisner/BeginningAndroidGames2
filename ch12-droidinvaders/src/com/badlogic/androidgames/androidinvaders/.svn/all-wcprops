@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/24/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/Settings.java
+END
+SettingsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/SettingsScreen.java
+END
+Assets.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/Assets.java
+END
+Ship.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/Ship.java
+END
+World.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/World.java
+END
+Invader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/Invader.java
+END
+Shield.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/Shield.java
+END
+GameScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/GameScreen.java
+END
+MainMenuScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/MainMenuScreen.java
+END
+AndroidInvaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/AndroidInvaders.java
+END
+Shot.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/Shot.java
+END
+WorldRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/23/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/androidinvaders/WorldRenderer.java
+END

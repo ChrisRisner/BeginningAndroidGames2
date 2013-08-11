@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/ch09-jumper/src/com/badlogic/androidgames/framework
+END
+Input.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Input.java
+END
+Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Screen.java
+END
+Graphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Graphics.java
+END
+GameObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/GameObject.java
+END
+Music.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Music.java
+END
+Audio.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Audio.java
+END
+DynamicGameObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/DynamicGameObject.java
+END
+SpatialHashGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/SpatialHashGrid.java
+END
+FileIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/FileIO.java
+END
+Sound.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Sound.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Game.java
+END
+Pool.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Pool.java
+END
+Pixmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13/trunk/ch09-jumper/src/com/badlogic/androidgames/framework/Pixmap.java
+END

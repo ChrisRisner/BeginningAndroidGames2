@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13/trunk/ch04-android-basics/src/com/badlogic/androidgames
+END
+LifeCycleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/LifeCycleTest.java
+END
+WakeLockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/WakeLockTest.java
+END
+ShapeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/ShapeTest.java
+END
+AssetsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/AssetsTest.java
+END
+FullScreenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/FullScreenTest.java
+END
+FontTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/FontTest.java
+END
+ExternalStorageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/ExternalStorageTest.java
+END
+RenderViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/RenderViewTest.java
+END
+AndroidBasicsStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/AndroidBasicsStarter.java
+END
+AccelerometerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/AccelerometerTest.java
+END
+BitmapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/BitmapTest.java
+END
+SoundPoolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/SoundPoolTest.java
+END
+SurfaceViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/SurfaceViewTest.java
+END
+SingleTouchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/SingleTouchTest.java
+END
+KeyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13/trunk/ch04-android-basics/src/com/badlogic/androidgames/KeyTest.java
+END
+MediaPlayerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/MediaPlayerTest.java
+END
+MultiTouchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/ch04-android-basics/src/com/badlogic/androidgames/MultiTouchTest.java
+END

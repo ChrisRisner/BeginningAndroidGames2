@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/18/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/math
+END
+OverlapTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/18/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/math/OverlapTester.java
+END
+Circle.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/18/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/math/Circle.java
+END
+Vector2.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/18/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/math/Vector2.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/18/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/math/Rectangle.java
+END
+Vector3.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/18/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/math/Vector3.java
+END
+Sphere.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/18/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/math/Sphere.java
+END

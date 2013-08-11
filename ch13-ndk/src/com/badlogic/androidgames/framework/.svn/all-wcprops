@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework
+END
+Input.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/Input.java
+END
+Graphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/Graphics.java
+END
+GameObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/GameObject.java
+END
+JniUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/JniUtils.java
+END
+Audio.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/Audio.java
+END
+DynamicGameObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/DynamicGameObject.java
+END
+FileIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/FileIO.java
+END
+SpatialHashGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/SpatialHashGrid.java
+END
+Pool.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/Pool.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/Game.java
+END
+Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/Screen.java
+END
+Music.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/Music.java
+END
+GameObject3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/GameObject3D.java
+END
+Sound.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/Sound.java
+END
+DynamicGameObject3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/DynamicGameObject3D.java
+END
+Pixmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26/trunk/ch13-ndk/src/com/badlogic/androidgames/framework/Pixmap.java
+END

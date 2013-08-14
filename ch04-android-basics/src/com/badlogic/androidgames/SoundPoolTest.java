@@ -16,16 +16,24 @@ import android.widget.TextView;
 public class SoundPoolTest extends Activity implements OnTouchListener {
     SoundPool soundPool;
     int explosionId = -1;
+    TextView textView;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        TextView textView = new TextView(this);
+        textView = new TextView(this);
         textView.setOnTouchListener(this);
         setContentView(textView);
 
         setVolumeControlStream(AudioManager.STREAM_MUSIC);
-        soundPool = new SoundPool(20, AudioManager.STREAM_MUSIC, 0);
+        
+    }
+    
+    @Override
+    protected void onResume() {
+    		super.onResume();
+    		
+    		soundPool = new SoundPool(20, AudioManager.STREAM_MUSIC, 0);
 
         try {
             AssetManager assetManager = getAssets();
@@ -37,8 +45,16 @@ public class SoundPoolTest extends Activity implements OnTouchListener {
                     + e.getMessage());
         }
     }
+    
+    @Override
+    protected void onPause() {
+    		super.onPause();
+    		soundPool.unload(explosionId);
+    		soundPool.release();
+    }
 
     public boolean onTouch(View v, MotionEvent event) {
+    	
         if (event.getAction() == MotionEvent.ACTION_UP) {
             if (explosionId != -1) {
                 soundPool.play(explosionId, 1, 1, 0, 0, 1);

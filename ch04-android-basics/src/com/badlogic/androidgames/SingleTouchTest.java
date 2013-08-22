@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class SingleTouchTest extends Activity implements OnTouchListener {
     StringBuilder builder = new StringBuilder();
-    TextView textView;
+    protected TextView textView;
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -9,7 +9,8 @@ import android.widget.ListView;
 
 public class AndroidBasicsStarter extends ListActivity {
     String tests[] = { "LifeCycleTest", "SingleTouchTest", "MultiTouchTest",
-            "KeyTest", "AccelerometerTest", "AssetsTest",
+    			"NewMultiTouchTest",
+            "KeyTest", "AccelerometerTest", "CompassTest", "AssetsTest",
             "ExternalStorageTest", "SoundPoolTest", "MediaPlayerTest",
             "FullScreenTest", "WakeLockTest", "RenderViewTest", "ShapeTest", "BitmapTest",
             "FontTest", "SurfaceViewTest" };

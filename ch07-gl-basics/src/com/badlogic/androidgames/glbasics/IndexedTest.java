@@ -32,10 +32,14 @@ public class IndexedTest extends GLGame {
 	        ByteBuffer byteBuffer = ByteBuffer.allocateDirect(4 * VERTEX_SIZE);
 	        byteBuffer.order(ByteOrder.nativeOrder());
 	        vertices = byteBuffer.asFloatBuffer();
-	        vertices.put(new float[] {  100.0f, 100.0f, 0.0f, 1.0f,
-	                                    228.0f, 100.0f, 1.0f, 1.0f,
-	                                    228.0f, 228.0f, 1.0f, 0.0f,
-	                                    100.0f, 228.0f, 0.0f, 0.0f });
+//	        vertices.put(new float[] {  100.0f, 100.0f, 0.0f, 1.0f,
+//	                                    228.0f, 100.0f, 1.0f, 1.0f,
+//	                                    228.0f, 228.0f, 1.0f, 0.0f,
+//	                                    100.0f, 228.0f, 0.0f, 0.0f });
+	        vertices.put(new float[] {  50.0f, 50.0f, 0.0f, 1.0f,
+					                    300.0f, 50.0f, 1.0f, 1.0f,
+					                    300.0f, 300.0f, 1.0f, 0.0f,
+					                    50.0f, 300.0f, 0.0f, 0.0f });	        
 	        vertices.flip();
 	        
 	        byteBuffer = ByteBuffer.allocateDirect(6 * 2);

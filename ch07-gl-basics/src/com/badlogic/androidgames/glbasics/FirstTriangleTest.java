@@ -27,9 +27,14 @@ public class FirstTriangleTest extends GLGame {
             ByteBuffer byteBuffer = ByteBuffer.allocateDirect(3 * 2 * 4);
             byteBuffer.order(ByteOrder.nativeOrder());            
             vertices = byteBuffer.asFloatBuffer();
-            vertices.put( new float[] {    0.0f,   0.0f,
-                                         319.0f,   0.0f,
-                                         160.0f, 479.0f});
+            //Triangle with base at bottom
+//            vertices.put( new float[] {    0.0f,   0.0f,
+//                                         319.0f,   0.0f,
+//                                         160.0f, 479.0f});
+            //Triangle with base at top
+            vertices.put( new float[] {    0.0f,   479.0f,
+                    						160.0f,   0.0f,
+                    						319.0f, 479.0f});
             vertices.flip();                       
         }
 

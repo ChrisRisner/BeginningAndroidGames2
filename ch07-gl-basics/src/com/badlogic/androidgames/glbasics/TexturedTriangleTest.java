@@ -38,6 +38,7 @@ public class TexturedTriangleTest extends GLGame {
 	        vertices.put( new float[] {    0.0f,   0.0f, 0.0f, 1.0f,
 	                                     319.0f,   0.0f, 1.0f, 1.0f,
 	                                     160.0f, 479.0f, 0.5f, 0.0f});
+	        
 	        vertices.flip();            
 	        textureId = loadTexture("bobrgb888.png");
 	    }
@@ -51,8 +52,10 @@ public class TexturedTriangleTest extends GLGame {
 	            int textureId = textureIds[0];
 	            gl.glBindTexture(GL10.GL_TEXTURE_2D, textureId);    
 	            GLUtils.texImage2D(GL10.GL_TEXTURE_2D, 0, bitmap, 0);
-	            gl.glTexParameterf(GL10.GL_TEXTURE_2D, GL10.GL_TEXTURE_MIN_FILTER, GL10.GL_NEAREST);
-	            gl.glTexParameterf(GL10.GL_TEXTURE_2D, GL10.GL_TEXTURE_MAG_FILTER, GL10.GL_NEAREST);                
+	            gl.glTexParameterf(GL10.GL_TEXTURE_2D, GL10.GL_TEXTURE_MIN_FILTER, GL10.GL_LINEAR);
+	            gl.glTexParameterf(GL10.GL_TEXTURE_2D, GL10.GL_TEXTURE_MAG_FILTER, GL10.GL_LINEAR);                
+//	            gl.glTexParameterf(GL10.GL_TEXTURE_2D, GL10.GL_TEXTURE_MIN_FILTER, GL10.GL_NEAREST);
+//	            gl.glTexParameterf(GL10.GL_TEXTURE_2D, GL10.GL_TEXTURE_MAG_FILTER, GL10.GL_NEAREST);
 	            gl.glBindTexture(GL10.GL_TEXTURE_2D, 0);
 	            bitmap.recycle();
 	            return textureId;

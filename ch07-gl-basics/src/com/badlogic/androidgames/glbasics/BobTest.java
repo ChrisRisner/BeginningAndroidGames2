@@ -32,6 +32,10 @@ public class BobTest extends GLGame {
                                                 16, -16, 1, 1, 
                                                 16,  16, 1, 0,
                                                -16,  16, 0, 0, }, 0, 16);
+//            bobModel.setVertices(new float[] { -32, -32, 0, 1,  
+//                    32, -32, 1, 1, 
+//                    32,  32, 1, 0,
+//                   -32,  32, 0, 0, }, 0, 16);            
             bobModel.setIndices(new short[] {0, 1, 2, 2, 3, 0}, 0, 6);
 
             
@@ -67,6 +71,7 @@ public class BobTest extends GLGame {
             for(int i = 0; i < NUM_BOBS; i++) {
                 gl.glLoadIdentity();
                 gl.glTranslatef(bobs[i].x, bobs[i].y, 0);
+                
                 gl.glRotatef(45, 0, 0, 1);
                 gl.glScalef(2, 0.5f, 0);
                 bobModel.draw(GL10.GL_TRIANGLES, 0, 6);

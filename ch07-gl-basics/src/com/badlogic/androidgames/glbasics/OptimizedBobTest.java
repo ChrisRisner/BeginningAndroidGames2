@@ -16,7 +16,7 @@ public class OptimizedBobTest extends GLGame {
     }
     
     class OptimizedBobScreen extends Screen {
-        static final int NUM_BOBS = 100;
+        static final int NUM_BOBS = 200;
         GLGraphics glGraphics;
         Texture bobTexture;
         BindableVertices bobModel;
@@ -37,8 +37,8 @@ public class OptimizedBobTest extends GLGame {
             bobModel.setIndices(new short[] {0, 1, 2, 2, 3, 0}, 0, 6);
 
             
-            bobs = new Bob[100];
-            for(int i = 0; i < 100; i++) {
+            bobs = new Bob[NUM_BOBS];
+            for(int i = 0; i < NUM_BOBS; i++) {
                 bobs[i] = new Bob();
             }
             
